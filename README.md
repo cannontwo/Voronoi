@@ -1,4 +1,6 @@
 # Voronoi
 Some Voronoi things.
 
-Try running main.py! Make sure you have scipy and matplotlib installed.
+Make sure you have scipy and matplotlib installed, then run main.py.
+
+Executing "main.py t" will cause the KDTree implementation to be used, and "main.py f" will use the brute force implementation.
